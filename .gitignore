@@ -1,0 +1,20 @@
+.vercel
+.env*
+
+# dependencies
+node_modules
+**/node_modules
+
+# secrets and local files (never commit these)
+.env
+**/.env
+**/.env.*
+!**/.env.example
+.env.local
+.vercel
+cookies*.txt
+**/cookies*.txt
+
+# build output
+dist
+**/dist
