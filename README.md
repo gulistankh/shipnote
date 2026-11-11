@@ -4,6 +4,10 @@
 
 A changelog tool for SaaS founders. Write a product update, publish it, and every product gets a public "What's new" page. Built as a complete MVP, from landing page and waitlist to subscription billing, to show an idea taken from zero to a product that can make money.
 
+**Demo video (2 minutes):** https://youtu.be/HIu0TYvBWfc
+
+[![Watch the Shipnote demo](https://img.youtube.com/vi/HIu0TYvBWfc/maxresdefault.jpg)](https://youtu.be/HIu0TYvBWfc)
+
 **Live demo:** https://shipnote-gulistan.vercel.app
 Open it and click one of the three demo buttons on the login page. No sign-up needed.
 

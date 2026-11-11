@@ -2,6 +2,7 @@
 
 **A changelog tool for SaaS founders. Write an update, publish it, and every product gets a public "What's new" page customers can open without logging in.**
 
+- **Demo video (2 minutes):** https://youtu.be/HIu0TYvBWfc
 - **Live demo:** https://shipnote-gulistan.vercel.app (click a demo button on the login page, no sign-up needed)
 - **Code:** https://github.com/gulistankh/shipnote
 - **Payments run in Stripe test mode.** No real money moves.
